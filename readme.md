@@ -1,6 +1,6 @@
 # Most Powerful Android RAT
 
-[![Watch the video](https://img.youtube.com/vi/LiQ5pdvHW3k/maxresdefault.jpg+)](https://youtu.be/LiQ5pdvHW3k)
+[![Watch the video](https://img.youtube.com/vi/LiQ5pdvHW3k/maxresdefault.jpg)](https://youtu.be/LiQ5pdvHW3k)
 
 
 ## Features:
