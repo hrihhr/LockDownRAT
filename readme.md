@@ -1,4 +1,4 @@
-# Most Powerful Android RAT
+# Most Powerful (FUD - Android RAT) 2025 - no pc require
 
 [![Watch the video](pic1.png)](https://youtu.be/LiQ5pdvHW3k)
 
