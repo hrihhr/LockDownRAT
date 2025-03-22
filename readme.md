@@ -115,4 +115,12 @@ Eva*de antivirus detection permanently. Our RAT cannot be detected by any antivi
 
 ---
 
----- Please Support Me Guys ----
+
+## Warning & Disclaimer:
+
+This content is strictly for educational and research purposes only. It is intended to help cybersecurity professionals, ethical hackers, and researchers understand modern threats to improve defensive security measures.
+
+Unauthorized use of malware, RATs, or hacking tools to compromise systems without explicit permission is illegal and punishable under cybersecurity laws. Engaging in malicious activities such as unauthorized access, data theft, or financial fraud can lead to severe legal consequences.
+
+If you are a cybersecurity professional or student, always conduct security research responsibly within legal and ethical boundaries. Use this knowledge to protect systems, educate users, and strengthen cybersecurity defenses—not for malicious purposes.
+---- Please Support Us Guys ----
