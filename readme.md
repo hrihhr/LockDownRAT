@@ -1,5 +1,4 @@
-# Most Powerful (FUD Android RAT) 2025
-## web based - no pc required
+# Most Powerful (FUD Android RAT) 2025 ## web based - no pc required
 
 
 [![Watch the video](pic1.png)](https://youtu.be/LiQ5pdvHW3k)
